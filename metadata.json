@@ -1,0 +1,6 @@
+{
+  "name": "VoltHome ESP32",
+  "description": "Android-ready smart home IoT control center for ESP32 relays, DHT11 thermostat, security cameras, real-time power trends, schedules, and PythonAnywhere/LAN firmware.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
